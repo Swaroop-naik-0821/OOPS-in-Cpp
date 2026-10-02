@@ -1,26 +1,41 @@
 # Object-Oriented Programming in C++
 
+## 👨‍🎓 Student Details
+
+| Details | Information |
+|---|---|
+| **Name** | Swaroop Prakash Naik |
+| **USN** | 01FE23BEC345 |
+| **Roll No.** | 646 |
+| **Division** | F |
+| **Branch** | Electronics & Communication Engineering |
+| **University** | KLE Technological University, Hubballi |
+
+---
+
+## 📚 About This Repository
+
 This repository contains C++ programs developed as part of the **Object-Oriented Programming (OOPS)** coursework.
 
 The programs are organized class-wise to demonstrate fundamental and intermediate concepts of **Object-Oriented Programming using C++**, including classes and objects, constructors, destructors, static members, friend functions, and inheritance.
 
 ---
 
-## Course Topics Covered
+## 📖 Course Topics Covered
 
 | Class | Topic |
 |---|---|
-| Class 01 | Basics & Functions |
-| Class 02 | Classes & Objects |
-| Class 03 | Constructors |
-| Class 04 | Destructors & Static Members |
-| Class 05 | Static Members & Friend Functions |
-| Class 06 | Single & Multilevel Inheritance |
-| Class 07 | Advanced Inheritance |
+| **Class 01** | Basics & Functions |
+| **Class 02** | Classes & Objects |
+| **Class 03** | Constructors |
+| **Class 04** | Destructors & Static Members |
+| **Class 05** | Static Members & Friend Functions |
+| **Class 06** | Single & Multilevel Inheritance |
+| **Class 07** | Advanced Inheritance |
 
 ---
 
-# Repository Structure
+# 📁 Repository Structure
 
 ```text
 OOPS-in-Cpp/
@@ -38,7 +53,7 @@ OOPS-in-Cpp/
 
 ---
 
-# Class 01 – Basics & Functions
+# 🧑‍💻 Class 01 – Basics & Functions
 
 This class covers basic C++ programming concepts, data types, variables, strings, palindrome checking, and different methods of parameter passing.
 
@@ -71,7 +86,7 @@ This class covers basic C++ programming concepts, data types, variables, strings
 
 ---
 
-# Class 02 – Classes & Objects
+# 🧑‍💻 Class 02 – Classes & Objects
 
 This class introduces the fundamental concepts of **Object-Oriented Programming**, including classes, objects, data members, member functions, and defining member functions outside the class.
 
@@ -95,7 +110,7 @@ This class introduces the fundamental concepts of **Object-Oriented Programming*
 
 ---
 
-# Class 03 – Constructors
+# 🧑‍💻 Class 03 – Constructors
 
 This class demonstrates constructors and their different forms in C++, including default, parameterized, and copy constructors.
 
@@ -120,7 +135,7 @@ This class demonstrates constructors and their different forms in C++, including
 
 ---
 
-# Class 04 – Destructors & Static Members
+# 🧑‍💻 Class 04 – Destructors & Static Members
 
 This class covers destructors and static data members. The programs demonstrate object destruction and sharing of static data among multiple objects.
 
@@ -141,7 +156,7 @@ This class covers destructors and static data members. The programs demonstrate 
 
 ---
 
-# Class 05 – Static Members & Friend Functions
+# 🧑‍💻 Class 05 – Static Members & Friend Functions
 
 This class focuses on static member functions and friend functions. The programs demonstrate how friend functions can access private members of classes.
 
@@ -163,7 +178,7 @@ This class focuses on static member functions and friend functions. The programs
 
 ---
 
-# Class 06 – Single & Multilevel Inheritance
+# 🧑‍💻 Class 06 – Single & Multilevel Inheritance
 
 This class introduces inheritance and demonstrates single-level and multilevel inheritance using practical examples.
 
@@ -186,7 +201,7 @@ This class introduces inheritance and demonstrates single-level and multilevel i
 
 ---
 
-# Class 07 – Advanced Inheritance
+# 🧑‍💻 Class 07 – Advanced Inheritance
 
 This class further explores multilevel inheritance and the use of protected members in derived classes.
 
@@ -205,17 +220,17 @@ This class further explores multilevel inheritance and the use of protected memb
 
 ---
 
-# Technologies Used
+# 🛠️ Technologies Used
 
 - **Programming Language:** C++
-- **Paradigm:** Object-Oriented Programming
+- **Programming Paradigm:** Object-Oriented Programming
 - **IDE/Editor:** Visual Studio Code
 - **Compiler:** G++ / GCC
 - **Version Control:** Git & GitHub
 
 ---
 
-# Learning Objectives
+# 🎯 Learning Objectives
 
 Through these programs, the following OOP concepts are practiced:
 
@@ -231,19 +246,11 @@ Through these programs, the following OOP concepts are practiced:
 
 ---
 
-# Note
+# 📌 Note
 
 This repository is maintained as part of the **Object-Oriented Programming in C++ coursework**. Each class folder contains programs corresponding to the concepts covered during the respective classes.
 
 ---
 
-## Author
 
-**Swaroop Prakash Naik**
-
-Electronics & Communication Engineering  
-KLE Technological University, Hubballi
-
----
-
-*This repository will be updated as new OOPS concepts and programs are covered.*
+⭐ *This repository will be updated as new OOPS concepts and programs are covered.*
