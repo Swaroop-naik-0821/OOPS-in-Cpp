@@ -1,9 +1,3 @@
-// modification to the prev code (prog_5)
-
-
-// write a cpp program for exception handling the divide by zero error...
-// now we switch the throw and the return to see what happens ; now the exception is not handeled by us (the defind exception handle),
-// it is handled by the system (eg. codeblox or vsccode or etc...)
 #include<iostream>
 using namespace std;
 
@@ -29,3 +23,9 @@ int main()
  }
  return 0;
 }
+// modification to the prev code (prog_5)
+
+
+// write a cpp program for exception handling the divide by zero error...
+// now we switch the throw and the return to see what happens ; now the exception is not handeled by us (the defind exception handle),
+// it is handled by the system (eg. codeblox or vsccode or etc...)
